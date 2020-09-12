@@ -7,6 +7,7 @@ project(
 add_executable(
   ${PROJECT_NAME}
   "main.cpp"
+  "Add.hpp"
 )
 
 install(
